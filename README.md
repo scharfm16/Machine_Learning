@@ -6,4 +6,3 @@ HW Assignments for Penn CIS 520: Machine Learning:
 - HW5: SVD and PCA
 - HW6: EM, K-Means, Imputation, and Confusion Matrices
 - HW7: HMM, RNNs, and Bayesian Networks
-- Final Project: Analysis of stroke data with class imbalance and building predictive models
